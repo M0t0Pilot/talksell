@@ -1,0 +1,6 @@
+{
+  "name": "Atelier — Shop & Editorial CMS",
+  "description": "An artisanal online shop and markdown blog writer with Stripe payments, rich product catalogs, and SEO-optimized CMS dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
